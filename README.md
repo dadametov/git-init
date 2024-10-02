@@ -2,4 +2,8 @@
 # 
 Скрипт username.sh выводит Имя и Фамилию автора
 
-> 💡 ПНичего более)
+> 💡 ПHичего болee)
+# git-branch. (c) Komilzhon.Dadametov
+# stepik-id-printer (h1)
+
+![logo](./jusan-logo.png)
